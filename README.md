@@ -1,10 +1,7 @@
 # Erik Taheri
-Engineering Lead at Stealth Startup
 
----
+**Head of Engineering** at [Citrine](https://citrine.co) | Buffalo, NY
 
-## Social
-- [Twitter @eriktaheri](https://twitter.com/eriktaheri)
-- [Email etaheri@me.com](mailto:etaheri@me.com)
-- [GitHub etaheri](https://github.com/etaheri)
-- [Instagram @eriktaheri](https://www.instagram.com/eriktaheri/)
+I like building things for the web. Currently leading engineering at Citrine, and [writing about what I learn](https://eriktaheri.com) along the way.
+
+[eriktaheri.com](https://eriktaheri.com) · [LinkedIn](https://www.linkedin.com/in/erik-taheri-9659a934/) · [Book a Call](https://cal.com/erik-taheri-jdtvzm)
